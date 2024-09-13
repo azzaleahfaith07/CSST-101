@@ -1,3 +1,8 @@
+# Exploring the Role of Knowledge Representation in AI
+
+https://github.com/user-attachments/assets/97f34a45-3322-43bb-985d-dbc7ee17fac3
+
+
 ## Introduction to AI
 
 Artificial Intelligence (AI) refers to the simulation of human intelligence processes by machines, particularly computer systems. These processes include learning (the acquisition of information and rules for using it), reasoning (using rules to reach approximate or definite conclusions), and self-correction. AI systems work by processing vast amounts of data, recognizing patterns, and making decisions based on that information. Knowledge plays a crucial role in AI, as it allows systems to represent and manipulate information effectively, enabling them to perform tasks that typically require human intelligence, such as understanding natural language, recognizing images, and making predictions.
