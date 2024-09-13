@@ -41,12 +41,7 @@ A simple problem related to the medical diagnosis system could be diagnosing a p
 
 To address this problem, a **semantic network** can be created. The network would include nodes for symptoms (e.g., fever, cough), diseases (e.g., flu, cold), and treatments (e.g., rest, hydration). The relationships between these nodes would illustrate how symptoms lead to potential diagnoses and corresponding treatments.
 
-```plaintext
-[Symptom: Fever] → [Disease: Flu]
-[Symptom: Cough] → [Disease: Cold]
-[Disease: Flu] → [Treatment: Rest]
-[Disease: Cold] → [Treatment: Hydration]
-```
+![image](https://github.com/user-attachments/assets/69e6ff33-c303-4153-a10a-3b69c3420c4f)
 
 This representation allows the AI system to utilize the connections between symptoms and diseases to infer possible diagnoses and suggest treatments based on the symptoms presented by the patient.
 
