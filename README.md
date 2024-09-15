@@ -6,3 +6,5 @@
 
 ### Machine Problem #1: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A-OXINA-MP1)
 ### Machine Problem #2: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A-OXINA-MP2)
+### Machine Problem #3: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A-OXINA-MP3)
+
