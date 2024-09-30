@@ -7,4 +7,6 @@
 ### Machine Problem #1: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A_OXINA_MP1)
 ### Machine Problem #2: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A_OXINA_MP2)
 ### Machine Problem #3: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/blob/main/3A_OXINA_MP3/3B_OXINA_MP3.ipynb)
+### Laboratory Exercise #1: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A_OXINA-EXER1)
+### Laboratory Exercise #2: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A_OXINA_EXER2)
 
