@@ -4,9 +4,12 @@
 - **C&Y:** BSCS 3A IS
 - **Subject Code:** CSST 101 | Advanced Presentation and Reasoning (IS 101)
 
-### Machine Problem #1: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A_OXINA_MP1)
-### Machine Problem #2: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A_OXINA_MP2)
-### Machine Problem #3: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/blob/main/3A_OXINA_MP3/3B_OXINA_MP3.ipynb)
-### Laboratory Exercise #1: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A_OXINA-EXER1)
-### Laboratory Exercise #2: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A_OXINA_EXER2)
+### Machine Problem #1: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A-OXINA-MP1)
+### Machine Problem #2: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A-OXINA-MP2)
+### Machine Problem #3: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/blob/main/3A-OXINA-MP3/3B-OXINA-MP3.ipynb)
+### Machine Problem #4: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A-OXINA-MP4)
+### Laboratory Exercise #1: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A-OXINA-EXER1)
+### Laboratory Exercise #2: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A-OXINA-EXER2)
+### Laboratory Exercise #3: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A-OXINA-EXER3)
+### Laboratory Exercise #4: [Click here to view](https://github.com/azzaleahfaith07/CSST-101/tree/main/3A-OXINA-EXER4)
 
